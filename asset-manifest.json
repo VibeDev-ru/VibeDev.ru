@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VibeDev.ru/static/css/main.67b18df2.css",
+    "main.js": "/VibeDev.ru/static/js/main.64b279b6.js",
+    "index.html": "/VibeDev.ru/index.html",
+    "main.67b18df2.css.map": "/VibeDev.ru/static/css/main.67b18df2.css.map",
+    "main.64b279b6.js.map": "/VibeDev.ru/static/js/main.64b279b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b18df2.css",
+    "static/js/main.64b279b6.js"
+  ]
+}
